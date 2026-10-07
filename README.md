@@ -20,9 +20,35 @@ delivery metrics, and customer satisfaction.
 - DAX measures: DISTINCTCOUNT, AVERAGEX, DATEDIFF, DIVIDE, CALCULATE, RANKX
 - Data modeling across 8 relational tables
 - Custom color theme, Top N filtering, data visualization best practices
+  -
 
 ## 📁 Dataset
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## 📸 Screenshots
-*(Add screenshots of each page here)*
+
+### Sales Overview
+
+
+![Sales Overview](page1-sales-overview.png)
+
+
+
+### Customer Insights
+
+
+![Customer Insights](page2-customer-insights.png)
+
+
+
+### Delivery Performance
+
+
+![Delivery Performance](page3-delivery-performance.png)
+
+
+
+### Reviews & Satisfaction
+
+
+![Reviews & Satisfaction](page4-reviews-satisfaction.png)
